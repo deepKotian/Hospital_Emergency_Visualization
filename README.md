@@ -20,7 +20,6 @@ Department Wise Patient Count – Distribution of patients across hospital depar
 The dashboard includes interactive filters for:
 Year (e.g., 2023, 2024)
 Month (Jan–Dec)
-
 These filters allow users to view performance trends dynamically.
 
 **🚀 How to Use**
